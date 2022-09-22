@@ -68,7 +68,7 @@
 
 /* --- Table start --- */
 #table {
-    border-collapse: separate;
+    width: 100%;
 }
 #table td, th {
     text-align: left;
